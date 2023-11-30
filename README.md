@@ -10,6 +10,8 @@ To run the game, you need to have the following installed:
 - Pygame library
 - Mediapipe library
 
+To play the game you will also need a computer camera or an external camera to be connected.
+
 ## How to Play
 
 - Press any key to start the game.
